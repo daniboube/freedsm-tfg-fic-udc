@@ -8,7 +8,7 @@ The FreeDSM photometer is an open hardware and open software solution for citize
 * TSL2591 Optical Light Sensor
 * AHT10 Ambience Sensor
 * 60 degrees PMMA Lens
-* GMU6050 Gyroscope and Acelerometer
+* GY-MPU6050 Gyroscope and Acelerometer
 * Neo6mv2 GPS Module
 
 If you want to know more about the context of the project or the device (how it is built, how it is used, results obtained, etc.), you can review the complete report of the work published in the [institutional repository](https://ruc.udc.es/dspace/handle/2183/32824) of the University of A Coruña. To find out more about the current status of the project, carried out by researchers from the Universities of A Coruña, Vigo and Barcelona, visit the [official website](http://gaia4sustainability.eu) of the Gaia4Sustainability project.
